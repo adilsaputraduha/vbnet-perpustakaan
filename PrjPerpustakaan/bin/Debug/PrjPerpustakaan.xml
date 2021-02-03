@@ -1,0 +1,112 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PrjPerpustakaan
+</name>
+</assembly>
+<members>
+<member name="T:PrjPerpustakaan.DataSet1.fakturpjDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.peminjamanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.pengembalianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.fakturpbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.bukupnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.bukupgDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.bukurakDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.fakturpjRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.peminjamanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.pengembalianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.fakturpbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.bukupnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.bukupgRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.bukurakRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.fakturpjRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.peminjamanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.pengembalianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.fakturpbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.bukupnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.bukupgRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1.bukurakRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrjPerpustakaan.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:PrjPerpustakaan.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PrjPerpustakaan.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PrjPerpustakaan.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
